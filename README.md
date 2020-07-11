@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **spassos/spassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Sérgio. A Data Engineer & Developer in Brazil.
+
+Some Skills:
+
+* Python
+* SQL
+* AWS
+* Azure
+
+Contact me on [Twitter](twitter.com/sergiodfp_ms) or Send an [Email](sergio.passos88@gmail.com)
