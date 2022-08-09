@@ -26,4 +26,4 @@ Some Skills:
 * AWS
 * Azure
 
-Contact me on [Twitter](twitter.com/sergiodfp_ms) or Send an [Email](sergio.passos88@gmail.com)
+Contact me on [Twitter](twitter.com/sergiodfp_ms), [Linkedin](https://www.linkedin.com/in/spassosdba) or Send an [Email](sergio.passos88@gmail.com)
